@@ -9,6 +9,6 @@ $translations = array(
 
     'visitblog' => 'Visite o blog mpopp.net (abre em uma nova aba)',
 
-    'listposts' => 'Liste nossos posts:',
+    'listposts' => 'Liste nossas publicações:',
 );
 ?>
